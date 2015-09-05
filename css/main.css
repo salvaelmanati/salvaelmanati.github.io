@@ -1,7 +1,11 @@
 html, body {
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
-  background-color:#40A4DF;
+  background-color: #74ccf4;
 }
-p {
-  background-color:rgba(64, 164, 223, 0.5);
+a {
+  text-decoration: none;
+  color:#F0F0F0;
+}
+a:hover {
+	text-decoration: underline;
 }
